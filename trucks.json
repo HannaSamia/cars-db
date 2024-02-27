@@ -1,0 +1,4596 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "make": "American LaFrance",
+      "model": "American Lafrance Condor",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 2,
+      "make": "Agrale",
+      "model": "Agrale 6500",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 3,
+      "make": "Agrale",
+      "model": "Agrale 8700",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 4,
+      "make": "Agrale",
+      "model": "Agrale 10000",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 5,
+      "make": "Agrale",
+      "model": "Agrale 14000",
+      "class": "Light/Medium",
+      "cabin": "COE",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 6,
+      "make": "AMW",
+      "model": "AMW TP Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 7,
+      "make": "Ashok Leyland",
+      "model": "Ashok Layland Avia",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 8,
+      "make": "Ashok Leyland",
+      "model": "Ashok Leyland eComet",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 9,
+      "make": "Ashok Leyland",
+      "model": "Ashok Leyland U-Truck",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 10,
+      "make": "Askam",
+      "model": "Askam AS 950",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Turkey"
+    },
+    {
+      "id": 11,
+      "make": "Askam",
+      "model": "Askam 8 Litre",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Turkey"
+    },
+    {
+      "id": 12,
+      "make": "Askam",
+      "model": "Askam Hi-Ex",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Turkey"
+    },
+    {
+      "id": 13,
+      "make": "Astra",
+      "model": "Astra HD9",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Italy"
+    },
+    {
+      "id": 14,
+      "make": "AMW",
+      "model": "AMW TR Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 15,
+      "make": "AMW",
+      "model": "AMW HL Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 16,
+      "make": "AMW",
+      "model": "AMW TM Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 17,
+      "make": "AMW",
+      "model": "AMW CP Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 18,
+      "make": "Autocar",
+      "model": "Autocar Xspotter",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 19,
+      "make": "Autocar",
+      "model": "Autocar Expert",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 20,
+      "make": "Autocar",
+      "model": "Autocar Refuse",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 21,
+      "make": "Avia Trucks",
+      "model": "Avia D-Line",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 22,
+      "make": "AzUniversal Motors",
+      "model": "Isuzu",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Azerbaijan"
+    },
+    {
+      "id": 23,
+      "make": "BeiBen",
+      "model": "BeiBen V3 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 24,
+      "make": "BeiBen",
+      "model": "BeiBen NG80 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 25,
+      "make": "BeiBen",
+      "model": "BeiBen Eurysome",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 26,
+      "make": "BeiBen",
+      "model": "BeiBen Tiema Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 27,
+      "make": "Beijing Automobile Works",
+      "model": "BAW Dragon Flag",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 28,
+      "make": "Beijing Automobile Works",
+      "model": "BAW Bell",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 29,
+      "make": "BharatBenz",
+      "model": "BharatBenz 914",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "India/Germany"
+    },
+    {
+      "id": 30,
+      "make": "BharatBenz",
+      "model": "BharatBenz 1214",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "India/Germany"
+    },
+    {
+      "id": 31,
+      "make": "BharatBenz",
+      "model": "BharatBenz 2523",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India/Germany"
+    },
+    {
+      "id": 32,
+      "make": "BharatBenz",
+      "model": "BharatBenz 3128",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India/Germany"
+    },
+    {
+      "id": 33,
+      "make": "BharatBenz",
+      "model": "BharatBenz 3143",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India/Germany"
+    },
+    {
+      "id": 34,
+      "make": "BharatBenz",
+      "model": "BharatBenz 3723",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 35,
+      "make": "Bryansk Automobile Plant",
+      "model": "BAZ-69096",
+      "class": "Military Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "Russia"
+    },
+    {
+      "id": 36,
+      "make": "Bryansk Automobile Plant",
+      "model": "BAZ-69096 (civilian version)",
+      "class": "Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "Russia"
+    },
+    {
+      "id": 37,
+      "make": "Bryansk Automobile Plant",
+      "model": "BAZ-64022",
+      "class": "Military Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "Russia"
+    },
+    {
+      "id": 38,
+      "make": "BMC (Turkey)",
+      "model": "BMC Fatih",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Turkey"
+    },
+    {
+      "id": 39,
+      "make": "BMC",
+      "model": "BMC Profesyonel",
+      "class": "Light/Medium/Heavy",
+      "cabin": "COE",
+      "nationality": "Turkey"
+    },
+    {
+      "id": 40,
+      "make": "Caterpillar",
+      "model": "CAT CT660",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 41,
+      "make": "CEV",
+      "model": "Might-E Truck",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Canada"
+    },
+    {
+      "id": 42,
+      "make": "Chevrolet",
+      "model": "Chevrolet NHR",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 43,
+      "make": "Chevrolet",
+      "model": "Chevrolet NKR",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 44,
+      "make": "Chevrolet",
+      "model": "Chevrolet N-Series",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 45,
+      "make": "Chevrolet",
+      "model": "Chevrolet Express Cutaway",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 46,
+      "make": "Chevrolet",
+      "model": "Chevrolet FTR",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 47,
+      "make": "Chevrolet",
+      "model": "Chevrolet FVR",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 48,
+      "make": "Chevrolet",
+      "model": "Chevrolet FVZ",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 49,
+      "make": "Chevrolet",
+      "model": "Chevrolet CYZ",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 50,
+      "make": "Citroën",
+      "model": "Citroën Jumper",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Italy"
+    },
+    {
+      "id": 51,
+      "make": "CCC",
+      "model": "CCC LET2",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 52,
+      "make": "CCC",
+      "model": "CCC COE2",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 53,
+      "make": "CCC",
+      "model": "CCC LOT2",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 54,
+      "make": "CNJ",
+      "model": "CNJ Fortune",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 55,
+      "make": "CNJ",
+      "model": "CNJ Ruichi",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 56,
+      "make": "DAF Trucks",
+      "model": "DAF LF",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "The Netherlands"
+    },
+    {
+      "id": 57,
+      "make": "DAF Trucks",
+      "model": "DAF CF",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "The Netherlands"
+    },
+    {
+      "id": 58,
+      "make": "DAF Trucks",
+      "model": "DAF XF",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "The Netherlands"
+    },
+    {
+      "id": 59,
+      "make": "Dayun",
+      "model": "Dayun CGC1047PB33E3",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 60,
+      "make": "Dayun",
+      "model": "Dayun CGC1141",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 61,
+      "make": "Dayun",
+      "model": "Dayun DYX1250",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 62,
+      "make": "Dayun",
+      "model": "Dayun CGC1311",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 63,
+      "make": "Dayun",
+      "model": "Dayun DYX5310",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 64,
+      "make": "Dina",
+      "model": "Dina Hustler",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Mexico"
+    },
+    {
+      "id": 65,
+      "make": "Dongfeng",
+      "model": "Dongfeng Palawan",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 66,
+      "make": "Dongfeng",
+      "model": "Dongfeng Gold Fighter",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 67,
+      "make": "Dongfeng",
+      "model": "Dongfeng Chenglong",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 68,
+      "make": "Dongfeng",
+      "model": "Dongfeng Kang PA",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 69,
+      "make": "Dongfeng",
+      "model": "Dongfeng Star",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 70,
+      "make": "Dongfeng",
+      "model": "Dongfeng Badly",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 71,
+      "make": "Dongfeng",
+      "model": "Dongfeng Days Kam",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 72,
+      "make": "Dongfeng",
+      "model": "Dongfeng Likas",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 73,
+      "make": "Dongfeng",
+      "model": "Dongfeng King Kong",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 74,
+      "make": "Dongfeng",
+      "model": "Dongfeng Tianlong",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 75,
+      "make": "Dongfeng",
+      "model": "Dongfeng Titan",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 76,
+      "make": "Dongfeng",
+      "model": "Dongfeng Balong Heavy Truck",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 77,
+      "make": "Dongfeng",
+      "model": "Dongfeng Dragon Card",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "China"
+    },
+    {
+      "id": 78,
+      "make": "FAP",
+      "model": "FAP 1318",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Serbia"
+    },
+    {
+      "id": 79,
+      "make": "FAP",
+      "model": "FAP 1824",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Serbia"
+    },
+    {
+      "id": 80,
+      "make": "FAP",
+      "model": "FAP 1828",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Serbia"
+    },
+    {
+      "id": 81,
+      "make": "FAP",
+      "model": "FAP 1830",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Serbia"
+    },
+    {
+      "id": 82,
+      "make": "FAP",
+      "model": "FAP 2235",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Serbia"
+    },
+    {
+      "id": 83,
+      "make": "FAP",
+      "model": "FAP 2640",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Serbia"
+    },
+    {
+      "id": 84,
+      "make": "FAW",
+      "model": "FAW CA1051K26L3",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 85,
+      "make": "FAW",
+      "model": "FAW CA1051K26L3R5",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 86,
+      "make": "FAW",
+      "model": "FAW CA1037K2L",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 87,
+      "make": "FAW",
+      "model": "FAW CA1031K2LR5",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 88,
+      "make": "FAW",
+      "model": "FAW CA1031K2L",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 89,
+      "make": "FAW",
+      "model": "FAW CA5313CLXYP7K2L11T4",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 90,
+      "make": "FAW",
+      "model": "FAW CA3075K2",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "China"
+    },
+    {
+      "id": 91,
+      "make": "FAW",
+      "model": "FAW CA4322P21K15T1YA82",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 92,
+      "make": "FAW",
+      "model": "FAW CA3313P7K2T4A",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 93,
+      "make": "FAW",
+      "model": "FAW CA4252P21K2T1A",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 94,
+      "make": "FAW",
+      "model": "FAW J6",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 95,
+      "make": "FAW-GM",
+      "model": "Jie Fang 1-Ton Truck",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China/United States"
+    },
+    {
+      "id": 96,
+      "make": "FAW-GM",
+      "model": "Jie Fang 2-Ton Truck",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "China/United States"
+    },
+    {
+      "id": 97,
+      "make": "FAW-GM",
+      "model": "Jie Fang 3-Ton Truck",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China/United States"
+    },
+    {
+      "id": 98,
+      "make": "Fiat",
+      "model": "Fiat Ducato",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Italy"
+    },
+    {
+      "id": 99,
+      "make": "FNM",
+      "model": "Agrale",
+      "class": "Light",
+      "cabin": "Electric",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 100,
+      "make": "Ford",
+      "model": "Ford F-650/750",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 101,
+      "make": "Ford",
+      "model": "Ford Econoline Cutaway",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 102,
+      "make": "Ford",
+      "model": "Ford Transit Cutaway",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 103,
+      "make": "Ford",
+      "model": "Ford Cargo",
+      "class": "Light/Medium/Heavy",
+      "cabin": "COE",
+      "nationality": "Brazil and Turkey(formally United States)"
+    },
+    {
+      "id": 104,
+      "make": "Ford Otosan",
+      "model": "Ford F-MAX",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Turkey"
+    },
+    {
+      "id": 105,
+      "make": "Foton",
+      "model": "Foton Aumark Series",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 106,
+      "make": "Foton",
+      "model": "Foton Ollin Series",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 107,
+      "make": "Foton",
+      "model": "Foton Auman Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 108,
+      "make": "Freightliner",
+      "model": "Freigtliner M2 106",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 109,
+      "make": "Freightliner",
+      "model": "Freightliner M2 112",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 110,
+      "make": "Freightliner",
+      "model": "Freightliner Coronado Series",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 111,
+      "make": "Freightliner",
+      "model": "Freightliner Cascadia",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 112,
+      "make": "Freightliner",
+      "model": "Freightliner 108SD",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 113,
+      "make": "Freightliner",
+      "model": "Freightliner 114SD",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 114,
+      "make": "Freightliner",
+      "model": "Freightliner Century Class",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia(formally United States)"
+    },
+    {
+      "id": 115,
+      "make": "Freightliner",
+      "model": "Freightliner Argosy",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Australia/South Africa(Formally United States)"
+    },
+    {
+      "id": 116,
+      "make": "GA",
+      "model": "MAZ",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Azerbaijan"
+    },
+    {
+      "id": 117,
+      "make": "GAZ",
+      "model": "GAZ-3307 and GAZ-3309",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 118,
+      "make": "GAZ",
+      "model": "GAZ-3308 Sadko",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 119,
+      "make": "GAZ",
+      "model": "GAZ Gazelle",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 120,
+      "make": "GAZ",
+      "model": "GAZelle NEXT",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 121,
+      "make": "GAZ",
+      "model": "GAZon NEXT",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 122,
+      "make": "GAZ",
+      "model": "GAZ Sadko NEXT",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 123,
+      "make": "GAZ",
+      "model": "GAZ Valdai",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 124,
+      "make": "GINAF",
+      "model": "GINAF C-Series",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "The Netherlands"
+    },
+    {
+      "id": 125,
+      "make": "GINAF",
+      "model": "GINAF X-Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "The Netherlands"
+    },
+    {
+      "id": 126,
+      "make": "Hino",
+      "model": "Hino 300 Series",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 127,
+      "make": "Hino",
+      "model": "Hino 238",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States/Canada"
+    },
+    {
+      "id": 128,
+      "make": "Hino",
+      "model": "Hino 500 Series",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 129,
+      "make": "Hino",
+      "model": "Hino 700 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 130,
+      "make": "Hyundai",
+      "model": "Hyundai HD45",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 131,
+      "make": "Hyundai",
+      "model": "Hyundai HD65/72/78",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 132,
+      "make": "Hyundai",
+      "model": "Hyundai H350",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 133,
+      "make": "Hyundai",
+      "model": "Hyundai Mighty",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 134,
+      "make": "Hyundai",
+      "model": "Hyundai HD120/210",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 135,
+      "make": "Hyundai",
+      "model": "Hyundai Cargo Truck",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 136,
+      "make": "Hyundai",
+      "model": "Hyundai Xcient",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 137,
+      "make": "Iran Khodro Diesel",
+      "model": "Khawar 1934",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "(Originally)Germany\n(Currently)Iran"
+    },
+    {
+      "id": 138,
+      "make": "Isuzu",
+      "model": "Isuzu N-Series",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 139,
+      "make": "Isuzu",
+      "model": "Mazda Titan",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 140,
+      "make": "Isuzu",
+      "model": "Isuzu Elf",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 141,
+      "make": "Isuzu",
+      "model": "Isuzu Forward",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 142,
+      "make": "Isuzu",
+      "model": "Isuzu Giga",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 143,
+      "make": "Iveco",
+      "model": "Iveco Daily",
+      "class": "Light, Medium",
+      "cabin": "Conventional",
+      "nationality": "Italy"
+    },
+    {
+      "id": 144,
+      "make": "Iveco",
+      "model": "Iveco PowerStar",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia"
+    },
+    {
+      "id": 145,
+      "make": "Iveco",
+      "model": "Iveco Eurocargo",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 146,
+      "make": "Iveco",
+      "model": "Iveco Trakker",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 147,
+      "make": "Iveco",
+      "model": "Iveco Stralis",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Malawi"
+    },
+    {
+      "id": 148,
+      "make": "JAC",
+      "model": "JAC 4DA1 Series",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 149,
+      "make": "JAC",
+      "model": "JAC FHC Series",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 150,
+      "make": "JAC",
+      "model": "JAC Shuailing",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 151,
+      "make": "JAC",
+      "model": "JAC Tipper",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 152,
+      "make": "JAC",
+      "model": "JAC Tractor",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 153,
+      "make": "JMC",
+      "model": "JMC Carrying",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 154,
+      "make": "Kalmar Industries",
+      "model": "Kalmar 4x2 off Highway",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Finland"
+    },
+    {
+      "id": 155,
+      "make": "Kalmar Industries",
+      "model": "Kalmar TR-Series",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Finland"
+    },
+    {
+      "id": 156,
+      "make": "KAMAZ",
+      "model": "KAMAZ 43253",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 157,
+      "make": "KAMAZ",
+      "model": "KAMAZ 43114",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 158,
+      "make": "KAMAZ",
+      "model": "KAMAZ 65207",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 159,
+      "make": "KAMAZ",
+      "model": "KAMAZ 65117",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 160,
+      "make": "KAMAZ",
+      "model": "KAMAZ 4326",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 161,
+      "make": "KAMAZ",
+      "model": "KAMAZ 4308",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 162,
+      "make": "KAMAZ",
+      "model": "KAMAZ 54115",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 163,
+      "make": "KAMAZ",
+      "model": "KAMAZ 5460",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 164,
+      "make": "KAMAZ",
+      "model": "KAMAZ 5490",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 165,
+      "make": "KAMAZ",
+      "model": "KAMAZ 65116",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 166,
+      "make": "KAMAZ",
+      "model": "KAMAZ 65206",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 167,
+      "make": "KAMAZ",
+      "model": "KAMAZ 6460",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 168,
+      "make": "KAMAZ",
+      "model": "KAMAZ 44108",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 169,
+      "make": "KAMAZ",
+      "model": "KAMAZ 65201",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 170,
+      "make": "KAMAZ",
+      "model": "KAMAZ 65224",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 171,
+      "make": "KAMAZ",
+      "model": "KAMAZ 65225",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 172,
+      "make": "KAMAZ",
+      "model": "KAMAZ 65226",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 173,
+      "make": "Kia",
+      "model": "Kia Bongo",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 174,
+      "make": "Kenworth",
+      "model": "Kenworth K270",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 175,
+      "make": "Kenworth",
+      "model": "Kenworth T170",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 176,
+      "make": "Kenworth",
+      "model": "Kenworth T409SAR",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia"
+    },
+    {
+      "id": 177,
+      "make": "Kenworth",
+      "model": "Kenworth T359",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia"
+    },
+    {
+      "id": 178,
+      "make": "Kenworth",
+      "model": "Kenworth C500",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 179,
+      "make": "Kenworth",
+      "model": "Kenworth C509",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia"
+    },
+    {
+      "id": 180,
+      "make": "Kenworth",
+      "model": "Kenworth T800",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 181,
+      "make": "Kenworth",
+      "model": "Kenworth W900",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 182,
+      "make": "Kenworth",
+      "model": "Kenworth T660",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 183,
+      "make": "Kenworth",
+      "model": "Kenworth T659",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia"
+    },
+    {
+      "id": 184,
+      "make": "Kenworth",
+      "model": "Kenworth T700",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 185,
+      "make": "Kenworth",
+      "model": "Kenworth T680",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 186,
+      "make": "Kenworth",
+      "model": "Kenworth T880",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 187,
+      "make": "Kenworth",
+      "model": "Kenworth T909",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia"
+    },
+    {
+      "id": 188,
+      "make": "KrAZ",
+      "model": "KrAZ-6322",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 189,
+      "make": "KrAZ",
+      "model": "KrAZ-6505",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 190,
+      "make": "KrAZ",
+      "model": "KrAZ-6510",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 191,
+      "make": "KrAZ",
+      "model": "KrAZ-6443",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 192,
+      "make": "KrAZ",
+      "model": "KrAZ-5233",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 193,
+      "make": "KrAZ",
+      "model": "KrAZ H12.2",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 194,
+      "make": "KrAZ",
+      "model": "KrAZ H23.2",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 195,
+      "make": "KrAZ",
+      "model": "KrAZ S20.2",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 196,
+      "make": "KrAZ",
+      "model": "KrAZ S26.2M",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 197,
+      "make": "KrAZ",
+      "model": "KrAZ H27.3",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 198,
+      "make": "KrAZ",
+      "model": "KrAZ-5401",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Ukraine"
+    },
+    {
+      "id": 199,
+      "make": "Mack Trucks",
+      "model": "Mack Pinnacle Series",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 200,
+      "make": "Mack Trucks",
+      "model": "Mack Titan",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia"
+    },
+    {
+      "id": 201,
+      "make": "Mack Trucks",
+      "model": "Mack Granite",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 202,
+      "make": "Mack Trucks",
+      "model": "Mack TerraPro",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 203,
+      "make": "Mack Trucks",
+      "model": "Mack Metro-Liner",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia"
+    },
+    {
+      "id": 204,
+      "make": "Mack Trucks",
+      "model": "Mack Super-Liner",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Australia"
+    },
+    {
+      "id": 205,
+      "make": "Mahindra Navistar",
+      "model": "Mahindra Navistar DI3200",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "India/United States"
+    },
+    {
+      "id": 206,
+      "make": "Mahindra Navistar",
+      "model": "Mahindra Navistar Loadking Zoom",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "India/United States"
+    },
+    {
+      "id": 207,
+      "make": "Mahindra Navistar",
+      "model": "Mahindra Navistar Torro",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "India/United States"
+    },
+    {
+      "id": 208,
+      "make": "Mahindra Navistar",
+      "model": "Mahindra Navistar Traco",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "India/United States"
+    },
+    {
+      "id": 209,
+      "make": "Mahindra Navistar",
+      "model": "Mahindra Navistar Truxo",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "India/United States"
+    },
+    {
+      "id": 210,
+      "make": "Master",
+      "model": "Master Highland",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Pakistan"
+    },
+    {
+      "id": 211,
+      "make": "Master",
+      "model": "Master Forland",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Pakistan"
+    },
+    {
+      "id": 212,
+      "make": "Master",
+      "model": "Master Foton",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 213,
+      "make": "Master",
+      "model": "Master Grande",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Pakistan"
+    },
+    {
+      "id": 214,
+      "make": "MAZ",
+      "model": "MAZ-5309",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 215,
+      "make": "MAZ",
+      "model": "MAZ-4371",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 216,
+      "make": "MAZ",
+      "model": "MAZ-447131",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 217,
+      "make": "MAZ",
+      "model": "MAZ-6440",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 218,
+      "make": "MAZ",
+      "model": "MAZ-6312",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 219,
+      "make": "MAZ",
+      "model": "MAZ-5440",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 220,
+      "make": "MAZ",
+      "model": "MAZ-5433",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 221,
+      "make": "Mercedes-Benz",
+      "model": "Mercedes-Benz Atego",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 222,
+      "make": "Mercedes-Benz",
+      "model": "Mercedes-Benz Axor",
+      "class": "Medium/Heavy",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 223,
+      "make": "Mercedes-Benz",
+      "model": "Mercedes-Benz Unimog",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Germany"
+    },
+    {
+      "id": 224,
+      "make": "Mercedes-Benz",
+      "model": "Mercedes-Benz Zetros",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Germany"
+    },
+    {
+      "id": 225,
+      "make": "Mercedes-Benz",
+      "model": "Mercedes-Benz Actros",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 226,
+      "make": "Mercedes-Benz",
+      "model": "Mercedes-Benz Arocs",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 227,
+      "make": "Mercedes-Benz",
+      "model": "Mercedes-Benz Sprinter",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Germany"
+    },
+    {
+      "id": 228,
+      "make": "Mitsubishi Fuso",
+      "model": "Mitsubishi Fuso Canter",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 229,
+      "make": "Mitsubishi Fuso",
+      "model": "Mitsubishi Fuso Fighter",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 230,
+      "make": "Mitsubishi Fuso",
+      "model": "Mitsubishi Fuso The Great",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 231,
+      "make": "Mitsubishi Fuso",
+      "model": "Mitsubishi Fuso Super Great",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 232,
+      "make": "MZKT",
+      "model": "MZKT – 75165",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 233,
+      "make": "MZKT",
+      "model": "MZKT – 7402",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 234,
+      "make": "MZKT",
+      "model": "MZKT – 692371",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Belarus"
+    },
+    {
+      "id": 235,
+      "make": "Navistar International",
+      "model": "International Citystar",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Mexico(Formally United States)"
+    },
+    {
+      "id": 236,
+      "make": "Navistar International",
+      "model": "International LoadStar",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 237,
+      "make": "Navistar International",
+      "model": "International TerraStar",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 238,
+      "make": "Navistar International",
+      "model": "International DuraStar",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 239,
+      "make": "Navistar International",
+      "model": "International Transtar",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 240,
+      "make": "Navistar International",
+      "model": "International 9200i",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Mexico"
+    },
+    {
+      "id": 241,
+      "make": "Navistar International",
+      "model": "International 9400i",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Mexico"
+    },
+    {
+      "id": 242,
+      "make": "Navistar International",
+      "model": "International 9800i",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 243,
+      "make": "Navistar International",
+      "model": "International 9900i",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 244,
+      "make": "Navistar International",
+      "model": "International LoneStar",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 245,
+      "make": "Navistar International",
+      "model": "International WorkStar",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 246,
+      "make": "Navistar International",
+      "model": "International PayStar",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 247,
+      "make": "Navistar International",
+      "model": "International ProStar+",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 248,
+      "make": "Nissan",
+      "model": "Nissan Atlas",
+      "class": "light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 249,
+      "make": "Nissan",
+      "model": "Renault Maxity",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 250,
+      "make": "MAN",
+      "model": "MAN TGE",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 251,
+      "make": "MAN",
+      "model": "MAN TG L",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 252,
+      "make": "MAN",
+      "model": "MAN TGM",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 253,
+      "make": "MAN",
+      "model": "MAN TGS",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 254,
+      "make": "MAN",
+      "model": "MAN TGX",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 255,
+      "make": "Peterbilt",
+      "model": "Peterbilt 210",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 256,
+      "make": "Peterbilt",
+      "model": "Peterbilt 320",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 257,
+      "make": "Peterbilt",
+      "model": "Peterbilt 325",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 258,
+      "make": "Peterbilt",
+      "model": "Peterbilt 348",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 259,
+      "make": "Peterbilt",
+      "model": "Peterbilt 365",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 260,
+      "make": "Peterbilt",
+      "model": "Peterbilt 382",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 261,
+      "make": "Peterbilt",
+      "model": "Peterbilt 384",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 262,
+      "make": "Peterblit",
+      "model": "Peterbilt 386",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 263,
+      "make": "Peterbilt",
+      "model": "Peterbilt 389",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 264,
+      "make": "Peterbilt",
+      "model": "Peterbilt 587",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 265,
+      "make": "Peterbilt",
+      "model": "Peterbilt 579",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 266,
+      "make": "Peugeot",
+      "model": "Peugeot Boxer",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Italy"
+    },
+    {
+      "id": 267,
+      "make": "Renault Trucks",
+      "model": "Renault Midlum",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "France"
+    },
+    {
+      "id": 268,
+      "make": "Renault Trucks",
+      "model": "Renault Access",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "France"
+    },
+    {
+      "id": 269,
+      "make": "Renault Trucks",
+      "model": "Renault Kerax",
+      "class": "Medium/Heavy",
+      "cabin": "COE",
+      "nationality": "France"
+    },
+    {
+      "id": 270,
+      "make": "Renault Trucks",
+      "model": "Renault Premium",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "France"
+    },
+    {
+      "id": 271,
+      "make": "Renault Trucks",
+      "model": "Renault C",
+      "class": "Medium/Heavy",
+      "cabin": "COE",
+      "nationality": "France"
+    },
+    {
+      "id": 272,
+      "make": "Renault Trucks",
+      "model": "Renault T",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "France"
+    },
+    {
+      "id": 273,
+      "make": "Roman",
+      "model": "Roman 12.250 F",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Romania"
+    },
+    {
+      "id": 274,
+      "make": "SAIC-Iveco Hongyan",
+      "model": "Hongyan Cargo Truck",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China/Italy"
+    },
+    {
+      "id": 275,
+      "make": "SAIC-Iveco Hongyan",
+      "model": "Hongyan Tractor",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China/Italy"
+    },
+    {
+      "id": 276,
+      "make": "SAIC-Iveco Hongyan",
+      "model": "Hongyan Dump Truck",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China/Italy"
+    },
+    {
+      "id": 277,
+      "make": "SAIC-Iveco Hongyan",
+      "model": "Hongyan Tanker Truck",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China/Italy"
+    },
+    {
+      "id": 278,
+      "make": "Scania",
+      "model": "Scania P-series",
+      "class": "Medium/Heavy",
+      "cabin": "COE",
+      "nationality": "Sweden"
+    },
+    {
+      "id": 279,
+      "make": "Scania",
+      "model": "Scania G-series",
+      "class": "Medium/Heavy",
+      "cabin": "COE",
+      "nationality": "Sweden"
+    },
+    {
+      "id": 280,
+      "make": "Scania",
+      "model": "Scania R-series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Sweden"
+    },
+    {
+      "id": 281,
+      "make": "Shaanxi",
+      "model": "Shaanxi Olong Tractor Truck",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 282,
+      "make": "Shaanxi",
+      "model": "Shaanxi Delong Tractor Truck",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 283,
+      "make": "Silant",
+      "model": "Silant 3.3 TD",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 284,
+      "make": "Sinotruk",
+      "model": "Sinotruk Steyr",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 285,
+      "make": "Sinotruk",
+      "model": "Sinotruk HOWO T7H",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China, Russia, Middle East"
+    },
+    {
+      "id": 286,
+      "make": "Sinotruk",
+      "model": "Sinotruk HOWO T5G",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "China"
+    },
+    {
+      "id": 287,
+      "make": "Sisu",
+      "model": "Sisu Polar",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Finland"
+    },
+    {
+      "id": 288,
+      "make": "Sisu",
+      "model": "Sisu Rock",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Finland"
+    },
+    {
+      "id": 289,
+      "make": "Smith",
+      "model": "Smith Newton",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "United Kingdom"
+    },
+    {
+      "id": 290,
+      "make": "SML Isuzu",
+      "model": "SML Super",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 291,
+      "make": "SNVI",
+      "model": "SNVI truck M120",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Algeria"
+    },
+    {
+      "id": 292,
+      "make": "SNVI",
+      "model": "SNVI truck TC260",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Algeria"
+    },
+    {
+      "id": 293,
+      "make": "Tata",
+      "model": "Tata Construck",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 294,
+      "make": "Tata",
+      "model": "Tata Novus",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 295,
+      "make": "Tata",
+      "model": "Tata Prima",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 296,
+      "make": "Tata Daewoo",
+      "model": "Tata Daewoo Novus",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "South Korea"
+    },
+    {
+      "id": 297,
+      "make": "Tata Daewoo",
+      "model": "Tata Daewoo Prima",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "India"
+    },
+    {
+      "id": 298,
+      "make": "Tatra Trucks",
+      "model": "Tatra Phoenix",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 299,
+      "make": "Tatra Trucks",
+      "model": "Tatra T815 TerrN°2",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 300,
+      "make": "Tatra Trucks",
+      "model": "Tatra 810",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 301,
+      "make": "Tatra Trucks",
+      "model": "Tatra Jamal",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 302,
+      "make": "Tevva",
+      "model": "Tevva TEV75B",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "United Kingdom"
+    },
+    {
+      "id": 303,
+      "make": "Toyota",
+      "model": "Toyota Dyna",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 304,
+      "make": "UAZ",
+      "model": "UAZ-3303",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 305,
+      "make": "UAZ",
+      "model": "UAZ Cargo",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 306,
+      "make": "UD Trucks",
+      "model": "Nissan Cabstar",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 307,
+      "make": "UD Trucks",
+      "model": "UD Condor",
+      "class": "Light/Medium",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 308,
+      "make": "UD Trucks",
+      "model": "UD Big Thumb",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 309,
+      "make": "UD Trucks",
+      "model": "UD Quon",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 310,
+      "make": "UralAZ",
+      "model": "Ural-4320",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 311,
+      "make": "UralAZ",
+      "model": "Ural-43206",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 312,
+      "make": "UralAZ",
+      "model": "Ural-4320-3951",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 313,
+      "make": "UralAZ",
+      "model": "Ural-432065",
+      "class": "Heavy",
+      "cabin": "Cab front of the engine",
+      "nationality": "Russia"
+    },
+    {
+      "id": 314,
+      "make": "UralAZ",
+      "model": "Ural-44202",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 315,
+      "make": "UralAZ",
+      "model": "Ural-5323",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 316,
+      "make": "UralAZ",
+      "model": "Ural-6368",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 317,
+      "make": "UralAZ",
+      "model": "Ural-6370",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 318,
+      "make": "UralAZ",
+      "model": "Ural Next",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Russia"
+    },
+    {
+      "id": 319,
+      "make": "Volkswagen Truck & Bus",
+      "model": "Volkswagen Constellation",
+      "class": "Medium/Heavy",
+      "cabin": "COE",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 320,
+      "make": "Volkswagen Commercial Vehicles",
+      "model": "Volkswagen Crafter",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Poland"
+    },
+    {
+      "id": 321,
+      "make": "Volkswagen Truck & Bus",
+      "model": "Volkswagen Delivery",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 322,
+      "make": "Volkswagen Truck & Bus",
+      "model": "Volkswagen Worker",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 323,
+      "make": "Volvo Trucks",
+      "model": "Volvo FE",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Sweden"
+    },
+    {
+      "id": 324,
+      "make": "Volvo Trucks",
+      "model": "Volvo FM",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Sweden"
+    },
+    {
+      "id": 325,
+      "make": "Volvo Trucks",
+      "model": "Volvo VHD",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 326,
+      "make": "Volvo Trucks",
+      "model": "Volvo VM",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Sweden"
+    },
+    {
+      "id": 327,
+      "make": "Volvo Trucks",
+      "model": "Volvo FH",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Sweden"
+    },
+    {
+      "id": 328,
+      "make": "Volvo Trucks",
+      "model": "Volvo FMX",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Sweden"
+    },
+    {
+      "id": 329,
+      "make": "Volvo Trucks",
+      "model": "Volvo VN",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 330,
+      "make": "Volvo Trucks",
+      "model": "Volvo VNX",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 331,
+      "make": "Wanshan Special Vehicle",
+      "model": "WS5250",
+      "class": "Military Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "China"
+    },
+    {
+      "id": 332,
+      "make": "Wanshan Special Vehicle",
+      "model": "WS5470",
+      "class": "Military Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "China"
+    },
+    {
+      "id": 333,
+      "make": "Wuzheng Auto Works",
+      "model": "A series",
+      "class": "Light",
+      "cabin": "Cabin before engine",
+      "nationality": "China"
+    },
+    {
+      "id": 334,
+      "make": "Wuzheng Auto Works",
+      "model": "V series",
+      "class": "Light",
+      "cabin": "Cabin before engine",
+      "nationality": "China"
+    },
+    {
+      "id": 335,
+      "make": "Wuzheng Auto Works",
+      "model": "D series",
+      "class": "Light",
+      "cabin": "Cabin before engine",
+      "nationality": "China"
+    },
+    {
+      "id": 336,
+      "make": "Western Star",
+      "model": "Western Star 4700",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States/Canada"
+    },
+    {
+      "id": 337,
+      "make": "Western Star",
+      "model": "Western Star 4800",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States/Canada"
+    },
+    {
+      "id": 338,
+      "make": "Western Star",
+      "model": "Western Star 4900",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States/Canada"
+    },
+    {
+      "id": 339,
+      "make": "Western Star",
+      "model": "Western Star 6900",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States/Canada"
+    },
+    {
+      "id": 340,
+      "make": "Yulon",
+      "model": "Yue Loong Homer",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Taiwan"
+    },
+    {
+      "id": 341,
+      "make": "Zastava Trucks",
+      "model": "Zastava EuroZeta",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Serbia"
+    },
+    {
+      "id": 342,
+      "make": "Zastava Trucks",
+      "model": "Zastava ZK-101",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Serbia"
+    },
+    {
+      "id": 343,
+      "make": "ZiL",
+      "model": "ZIL-4327",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 344,
+      "make": "ZiL",
+      "model": "ZIL-4331",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 345,
+      "make": "ZiL",
+      "model": "ZIL-5301 \"Bychok\"",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 346,
+      "make": "Agricola",
+      "model": "Agricola 25 GT 4x4",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Greece"
+    },
+    {
+      "id": 347,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo A15",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Italy"
+    },
+    {
+      "id": 348,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo 50",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Italy"
+    },
+    {
+      "id": 349,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo 85",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Italy"
+    },
+    {
+      "id": 350,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo 350",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Italy"
+    },
+    {
+      "id": 351,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo 430",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Italy"
+    },
+    {
+      "id": 352,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo 900",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Italy"
+    },
+    {
+      "id": 353,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo 950",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Italy"
+    },
+    {
+      "id": 354,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo Mille",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Italy"
+    },
+    {
+      "id": 355,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo 500",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Italy"
+    },
+    {
+      "id": 356,
+      "make": "Alfa Romeo",
+      "model": "Alfa Romeo 800",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Italy"
+    },
+    {
+      "id": 357,
+      "make": "Avia",
+      "model": "Avia A15",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 358,
+      "make": "Avia",
+      "model": "Avia A30",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 359,
+      "make": "Avia",
+      "model": "Avia A60/65/75/80",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 360,
+      "make": "Amur",
+      "model": "AMUR-531350",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 361,
+      "make": "Barkas",
+      "model": "Barkas B1000",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 362,
+      "make": "Bering Truck",
+      "model": "Bering LD15",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 363,
+      "make": "Bering Truck",
+      "model": "Bering MD23",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 364,
+      "make": "Bering Truck",
+      "model": "Bering HDMX",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "United States"
+    },
+    {
+      "id": 365,
+      "make": "BMC",
+      "model": "BMC Megastar",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Turkey"
+    },
+    {
+      "id": 366,
+      "make": "Büssing",
+      "model": "Büssing Commodore",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 367,
+      "make": "Büssing",
+      "model": "Büssing BS 16 L",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 368,
+      "make": "Büssing",
+      "model": "MAN Büssing",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 369,
+      "make": "Büssing",
+      "model": "Büssing LS 77",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Germany"
+    },
+    {
+      "id": 370,
+      "make": "Csepel",
+      "model": "Csepel D350",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 371,
+      "make": "Csepel",
+      "model": "Csepel D400/D420",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 372,
+      "make": "Csepel",
+      "model": "Csepel D450",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 373,
+      "make": "Csepel",
+      "model": "Csepel D344",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 374,
+      "make": "Csepel",
+      "model": "Csepel 700 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 375,
+      "make": "Csepel",
+      "model": "Csepel D452/D453",
+      "class": "Medium, Heavy",
+      "cabin": "COE",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 376,
+      "make": "Csepel",
+      "model": "Csepel D708",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 377,
+      "make": "Csepel",
+      "model": "Csepel D730",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 378,
+      "make": "Csepel",
+      "model": "Csepel D717",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 379,
+      "make": "Csepel",
+      "model": "Csepel D750",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 380,
+      "make": "Csepel",
+      "model": "Csepel D752 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 381,
+      "make": "Diamond T",
+      "model": "Diamond T 630",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 382,
+      "make": "Diamond T",
+      "model": "Diamond T 969A Wercker",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 383,
+      "make": "Ernst Grube",
+      "model": "Ernst Grube H6",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 384,
+      "make": "Ernst Grube",
+      "model": "Sachsenring S4000-1",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 385,
+      "make": "Ernst Grube",
+      "model": "Ernst Grube G5",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 386,
+      "make": "Fabrika automobila Priboj (FAP)",
+      "model": "FAP 13.14",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Yugoslavia"
+    },
+    {
+      "id": 387,
+      "make": "FAP",
+      "model": "FAP 18.20",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Yugoslavia"
+    },
+    {
+      "id": 388,
+      "make": "FAP",
+      "model": "FAP 22.22",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Yugoslavia"
+    },
+    {
+      "id": 389,
+      "make": "FAP",
+      "model": "FAP 19.21",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Yugoslavia"
+    },
+    {
+      "id": 390,
+      "make": "FAP",
+      "model": "FAP 19.215",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Yugoslavia"
+    },
+    {
+      "id": 391,
+      "make": "FAP",
+      "model": "FAP 15.16/15.20",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Yugoslavia"
+    },
+    {
+      "id": 392,
+      "make": "FAP",
+      "model": "FAP 10.16",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Yugoslavia"
+    },
+    {
+      "id": 393,
+      "make": "FAP",
+      "model": "FAP 1213/1216",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Yugoslavia"
+    },
+    {
+      "id": 394,
+      "make": "FAP",
+      "model": "FAP 1620",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Yugoslavia"
+    },
+    {
+      "id": 395,
+      "make": "Fabryka Samochodów Ciężarowych (FSC)",
+      "model": "FSC Żuk",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 396,
+      "make": "FSC",
+      "model": "FSC Lublin",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Poland"
+    },
+    {
+      "id": 397,
+      "make": "FSC Star",
+      "model": "Star 20",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 398,
+      "make": "FSC Star",
+      "model": "Star 21",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 399,
+      "make": "FSC Star",
+      "model": "Star 66",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 400,
+      "make": "FSC Star",
+      "model": "Star 25",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 401,
+      "make": "FSC Star",
+      "model": "Star 27",
+      "class": "Medium, Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 402,
+      "make": "FSC Star",
+      "model": "Star 660",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 403,
+      "make": "FSC Star",
+      "model": "Star 28/29",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 404,
+      "make": "FSC Star",
+      "model": "Star 200",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 405,
+      "make": "FSC Star",
+      "model": "Star 244",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 406,
+      "make": "FSC Star",
+      "model": "Star 266",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 407,
+      "make": "FSC Star",
+      "model": "Star 742",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 408,
+      "make": "FSC Star",
+      "model": "Star 744",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 409,
+      "make": "FSC Star",
+      "model": "Star 1142",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 410,
+      "make": "FSC Star",
+      "model": "Star 8.125",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 411,
+      "make": "FSC Star",
+      "model": "Star 12.157",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 412,
+      "make": "Star",
+      "model": "Star S2000",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 413,
+      "make": "Star",
+      "model": "Star 14.227",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 414,
+      "make": "GAZ",
+      "model": "GAZ-AA",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 415,
+      "make": "GAZ",
+      "model": "GAZ-AAA",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 416,
+      "make": "GAZ",
+      "model": "GAZ-51",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 417,
+      "make": "GAZ",
+      "model": "GAZ-63",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 418,
+      "make": "GAZ",
+      "model": "GAZ-52 and GAZ-53",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 419,
+      "make": "GAZ",
+      "model": "GAZ-66",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 420,
+      "make": "Horch",
+      "model": "Horch H3",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 421,
+      "make": "Horch",
+      "model": "Horch H3A",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 422,
+      "make": "Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant",
+      "model": "IFA W50",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 423,
+      "make": "Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant",
+      "model": "IFA W50LA",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 424,
+      "make": "Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant",
+      "model": "IFA L60/1218",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 425,
+      "make": "Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant",
+      "model": "IFA L60/1218PB",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 426,
+      "make": "Jelcz",
+      "model": "Zubr A80",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 427,
+      "make": "Jelcz",
+      "model": "Jelcz 300 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 428,
+      "make": "Jelcz",
+      "model": "Jelcz 640 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 429,
+      "make": "Jelcz",
+      "model": "Jelcz 410 series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 430,
+      "make": "Jelcz",
+      "model": "Jelcz 600 series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Poland"
+    },
+    {
+      "id": 431,
+      "make": "Kutaisi Automobile Plant",
+      "model": "KAZ-606 Colchis",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 432,
+      "make": "Kutaisi Automobile Plant",
+      "model": "KAZ-608 Colchis",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 433,
+      "make": "Kutaisi Automobile Plant",
+      "model": "KAZ-608B Colchis",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 434,
+      "make": "Kutaisi Automobile Plant",
+      "model": "KAZ-4540",
+      "class": "Heavy",
+      "cabin": "cabin before engine",
+      "nationality": "USSR"
+    },
+    {
+      "id": 435,
+      "make": "KrAZ",
+      "model": "KrAZ-219",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 436,
+      "make": "KrAZ",
+      "model": "KrAZ-221",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 437,
+      "make": "KrAZ",
+      "model": "KrAZ-222",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 438,
+      "make": "KrAZ",
+      "model": "KrAZ-214",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 439,
+      "make": "KrAZ",
+      "model": "KrAZ-257",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 440,
+      "make": "KrAZ",
+      "model": "KrAZ-258",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 441,
+      "make": "KrAZ",
+      "model": "KrAZ-256B",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 442,
+      "make": "KrAZ",
+      "model": "KrAZ-255",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 443,
+      "make": "KrAZ",
+      "model": "KrAZ-250",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 444,
+      "make": "KrAZ",
+      "model": "KrAZ-260",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 445,
+      "make": "KZKT",
+      "model": "KZKT-535",
+      "class": "Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "USSR"
+    },
+    {
+      "id": 446,
+      "make": "KZKT",
+      "model": "KZKT-537",
+      "class": "Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "USSR"
+    },
+    {
+      "id": 447,
+      "make": "KZKT",
+      "model": "KZKT-7428 Rusich",
+      "class": "Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "Russia"
+    },
+    {
+      "id": 448,
+      "make": "KZKT",
+      "model": "KZKT-8005",
+      "class": "Extra heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "Russia"
+    },
+    {
+      "id": 449,
+      "make": "Leyland Motors",
+      "model": "Landtrain",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United Kingdom"
+    },
+    {
+      "id": 450,
+      "make": "LIAZ",
+      "model": "LiAZ 100 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 451,
+      "make": "LiAZ",
+      "model": "LiAZ 200 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Chezhoslovakia"
+    },
+    {
+      "id": 452,
+      "make": "LiAZ",
+      "model": "LiAZ S/FZ Series",
+      "class": "Heavy/Medium",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 453,
+      "make": "LiAZ",
+      "model": "LiAZ 300 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 454,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-200",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 455,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-205",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 456,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-535",
+      "class": "Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "USSR"
+    },
+    {
+      "id": 457,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-501",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 458,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-502",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 459,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-537",
+      "class": "Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "USSR"
+    },
+    {
+      "id": 460,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-543",
+      "class": "Extra heavy",
+      "cabin": "engine between the two cabins located on the right and left sides",
+      "nationality": "USSR"
+    },
+    {
+      "id": 461,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-500",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 462,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-503",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 463,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-504",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 464,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-516",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 465,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-509",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 466,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-5335",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 467,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-5549",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 468,
+      "make": "Minsk Automobile Plant (MAZ)",
+      "model": "MAZ-5429",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "USSR"
+    },
+    {
+      "id": 469,
+      "make": "Multicar",
+      "model": "Multicar M24",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 470,
+      "make": "Multicar",
+      "model": "Multicar M25",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 471,
+      "make": "Multicar",
+      "model": "Multicar M26",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 472,
+      "make": "MAN",
+      "model": "MAN HX",
+      "class": "Heavy",
+      "cabin": "Cabin before engine",
+      "nationality": "Germany"
+    },
+    {
+      "id": 473,
+      "make": "Praga",
+      "model": "Praga N",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 474,
+      "make": "Praga",
+      "model": "Praga L",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 475,
+      "make": "Praga",
+      "model": "Praga AN",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 476,
+      "make": "Praga",
+      "model": "Praga ND/SND",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 477,
+      "make": "Praga",
+      "model": "Praga TN/TNHP",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 478,
+      "make": "Praga",
+      "model": "Praga TOV",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 479,
+      "make": "Praga",
+      "model": "Praga RN/RND",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 480,
+      "make": "Praga",
+      "model": "Praga V3S",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 481,
+      "make": "Praga",
+      "model": "Praga S5T",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 482,
+      "make": "Praga",
+      "model": "Praga S5T-2TN",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 483,
+      "make": "Praga",
+      "model": "Praga UV80",
+      "class": "Medium multipurpose",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 484,
+      "make": "Praga",
+      "model": "Praga NTS-265",
+      "class": "Heavy multipurpose",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 485,
+      "make": "Renault Trucks",
+      "model": "Renault Magnum",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "France"
+    },
+    {
+      "id": 486,
+      "make": "Riga Autobus Factory",
+      "model": "RAF-33111",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Latvia"
+    },
+    {
+      "id": 487,
+      "make": "Sachsenring",
+      "model": "Sachsenring S4000",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 488,
+      "make": "Škoda",
+      "model": "Skoda 304/306",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 489,
+      "make": "Skoda",
+      "model": "Skoda-Sentinel",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 490,
+      "make": "Skoda-Laurin & Klement",
+      "model": "Skoda-Laurin-Klement-505/545",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 491,
+      "make": "Skoda-Laurin-Klement",
+      "model": "Skoda-Laurin-Klement-125",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 492,
+      "make": "Skoda",
+      "model": "Skoda-550",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 493,
+      "make": "Skoda",
+      "model": "Skoda-104/154",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 494,
+      "make": "Skoda",
+      "model": "Skoda-304/306",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 495,
+      "make": "Skoda",
+      "model": "Skoda-504/506",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 496,
+      "make": "Skoda",
+      "model": "Skoda-404D/606D",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 497,
+      "make": "Skoda",
+      "model": "Skoda-206",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 498,
+      "make": "Skoda",
+      "model": "Skoda-656D/806D",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 499,
+      "make": "Skoda",
+      "model": "Skoda-254D",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 500,
+      "make": "Skoda",
+      "model": "Skoda-100/150",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 501,
+      "make": "Skoda",
+      "model": "Skoda-256B",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 502,
+      "make": "Skoda",
+      "model": "Skoda-706D",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 503,
+      "make": "Skoda",
+      "model": "Skoda-706R",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 504,
+      "make": "Skoda-LIAZ",
+      "model": "Skoda-706RT",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 505,
+      "make": "Skoda-LIAZ",
+      "model": "Skoda-LIAZ-706MT",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 506,
+      "make": "Skoda",
+      "model": "Škoda 1203",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 507,
+      "make": "Skoda-LIAZ",
+      "model": "Skoda-LiAZ 100 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 508,
+      "make": "Skoda-LIAZ",
+      "model": "Skoda-LiAZ 200 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 509,
+      "make": "Skoda-LIAZ",
+      "model": "Skoda-LiAZ S/FZ Series",
+      "class": "Heavy/Medium",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 510,
+      "make": "Skoda-LIAZ",
+      "model": "Skoda-LiAZ 300 Series",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 511,
+      "make": "Skoda-LIAZ",
+      "model": "Skoda-LIAZ-Xena",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 512,
+      "make": "Sterling Trucks",
+      "model": "Sterling 360",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Japan"
+    },
+    {
+      "id": 513,
+      "make": "Sterling Trucks",
+      "model": "Sterling Acterra",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 514,
+      "make": "Sterling Trucks",
+      "model": "Sterling Set Forward L-Line",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 515,
+      "make": "Sterling Trucks",
+      "model": "Sterling Set Back L-Line",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 516,
+      "make": "Sterling Trucks",
+      "model": "Sterling Set Back A-Line",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "United States"
+    },
+    {
+      "id": 517,
+      "make": "Tatra",
+      "model": "Tatra TL4",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 518,
+      "make": "Tatra",
+      "model": "Tatra 13",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 519,
+      "make": "Tatra",
+      "model": "Tatra 26",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 520,
+      "make": "Tatra",
+      "model": "Tatra T23",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 521,
+      "make": "Tatra",
+      "model": "Tatra T24",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 522,
+      "make": "Tatra",
+      "model": "Tatra T43/T52",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 523,
+      "make": "Tatra",
+      "model": "Tatra T27",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 524,
+      "make": "Tatra",
+      "model": "Tatra 82",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 525,
+      "make": "Tatra",
+      "model": "Tatra T92",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 526,
+      "make": "Tatra",
+      "model": "Tatra T93",
+      "class": "Light",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 527,
+      "make": "Tatra",
+      "model": "Tatra T85/T91",
+      "class": "Medium, Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 528,
+      "make": "Tatra",
+      "model": "Tatra T81",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 529,
+      "make": "Tatra",
+      "model": "Tatra T111",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 530,
+      "make": "Tatra",
+      "model": "Tatra T128",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 531,
+      "make": "Tatra",
+      "model": "Tatra T141",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 532,
+      "make": "Tatra",
+      "model": "Tatra T805",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 533,
+      "make": "Tatra",
+      "model": "Tatra T138",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 534,
+      "make": "Tatra",
+      "model": "Tatra T813",
+      "class": "Heavy, Extra heavy",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 535,
+      "make": "Tatra",
+      "model": "Tatra T148",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 536,
+      "make": "Tatra",
+      "model": "Tatra T815",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czechoslovakia"
+    },
+    {
+      "id": 537,
+      "make": "Tatra",
+      "model": "Tatra T815 TerrNo1",
+      "class": "Heavy",
+      "cabin": "COE",
+      "nationality": "Czech Republic"
+    },
+    {
+      "id": 538,
+      "make": "Trnavské automobilové závody (TAZ)",
+      "model": "TAZ 1500",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Slovakia"
+    },
+    {
+      "id": 539,
+      "make": "UralZIS",
+      "model": "UralZIS-355M",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 540,
+      "make": "UralAZ",
+      "model": "Ural-375",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 541,
+      "make": "UralAZ",
+      "model": "Ural-377",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 542,
+      "make": "UralAZ",
+      "model": "Ural-4322",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 543,
+      "make": "VEB Fahrzeugwerk Mölkau",
+      "model": "IFA Picco max 4",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "Eastern Germany"
+    },
+    {
+      "id": 544,
+      "make": "VEB Robur-Werke",
+      "model": "Robur Garant",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 545,
+      "make": "VEB Robur-Werke",
+      "model": "Robur LO 2500/LD2500",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 546,
+      "make": "VEB Robur-Werke",
+      "model": "Robur Lo 1800A",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 547,
+      "make": "VEB Robur-Werke",
+      "model": "Robur LO/LD 2501",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 548,
+      "make": "VEB Robur-Werke",
+      "model": "Robur 1801A",
+      "class": "Light",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 549,
+      "make": "VEB Robur-Werke",
+      "model": "Robur LO/LD 3000",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 550,
+      "make": "VEB Robur-Werke",
+      "model": "Robur LO 2202A",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 551,
+      "make": "VEB Robur-Werke",
+      "model": "Robur LD/LO 3001/3002",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "East Germany"
+    },
+    {
+      "id": 552,
+      "make": "Robur-Werke",
+      "model": "Robur LD3004",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Germany"
+    },
+    {
+      "id": 553,
+      "make": "YaAZ",
+      "model": "Ya-3",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 554,
+      "make": "YaAZ",
+      "model": "Ya-4",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 555,
+      "make": "YaAZ",
+      "model": "Ya-5",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 556,
+      "make": "YaAZ",
+      "model": "YaG-3",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 557,
+      "make": "YaAZ",
+      "model": "YaG-10",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 558,
+      "make": "YaAZ",
+      "model": "YaG-6",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 559,
+      "make": "YaAZ",
+      "model": "YaAZ-200",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 560,
+      "make": "YaAZ",
+      "model": "YaAZ-210",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 561,
+      "make": "YaAZ",
+      "model": "YaAZ-214",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 562,
+      "make": "YaAZ",
+      "model": "YaAZ-221",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 563,
+      "make": "YaAZ",
+      "model": "YaAZ-222",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 564,
+      "make": "ZIS",
+      "model": "ZIS-5",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 565,
+      "make": "ZIS",
+      "model": "ZIS-6",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 566,
+      "make": "ZIS",
+      "model": "ZIS-150",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 567,
+      "make": "ZIS",
+      "model": "ZIS-151",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 568,
+      "make": "ZIL",
+      "model": "ZIL-157",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 569,
+      "make": "ZIL",
+      "model": "ZIL-130",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 570,
+      "make": "ZIL",
+      "model": "ZIL-131",
+      "class": "Medium",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 571,
+      "make": "ZIL",
+      "model": "ZIL-133",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "USSR"
+    },
+    {
+      "id": 572,
+      "make": "ZIL",
+      "model": "ZIL-4334",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 573,
+      "make": "ZIL",
+      "model": "ZIL-6309",
+      "class": "Heavy",
+      "cabin": "Conventional",
+      "nationality": "Russia"
+    },
+    {
+      "id": 574,
+      "make": "Zmaj",
+      "model": "Zmaj-3200",
+      "class": "Medium",
+      "cabin": "COE",
+      "nationality": "Yugoslavia"
+    }
+  ]
+}
